@@ -1,0 +1,58 @@
+[
+{
+"name": "dimmable light",
+"imageURL": "/imgs/imgs/bulb.png",
+"color": "red",
+"isOn": false,
+"intensity": 20
+},
+{
+"name": "color light",
+"imageURL": "/imgs/imgs/idea.png",
+"color": "red",
+"isOn": false,
+"intensity": 50
+},
+{
+"name": "on/off",
+"imageURL": "/imgs/imgs/light-bulb.png",
+"color": "yellow",
+"isOn": true,
+"intensity": 100
+},
+{
+"name": "dimmable light",
+"imageURL": "/imgs/imgs/bulb.png",
+"color": "blue",
+"isOn": true,
+"intensity": 70
+},
+{
+"name": "on/off",
+"imageURL": "/imgs/imgs/light-bulb.png",
+"color": "yellow",
+"isOn": true,
+"intensity": 100
+},
+{
+"name": "dimmable light",
+"imageURL": "/imgs/imgs/bulb.png",
+"color": "red",
+"isOn": true,
+"intensity": 20
+},
+{
+"name": "color light",
+"imageURL": "/imgs/imgs/idea.png",
+"color": "yellow",
+"isOn": false,
+"intensity": 87
+},
+{
+"name": "on/off",
+"imageURL": "/imgs/imgs/light-bulb.png",
+"color": "yellow",
+"isOn": true,
+"intensity": 100
+}
+]

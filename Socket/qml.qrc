@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>socket.qml</file>
+        <file>LogIn.qml</file>
+        <file>main.qml</file>
+        <file>NewMember.qml</file>
+        <file>Components/MyTextEdit.qml</file>
+        <file>Components/MyButton.qml</file>
+    </qresource>
+</RCC>
